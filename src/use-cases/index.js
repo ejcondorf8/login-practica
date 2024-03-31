@@ -1,0 +1,1 @@
+export {encriptedPassword} from './encripted-password'
